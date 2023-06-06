@@ -5,14 +5,14 @@
 This application allows you to import the departments, roles, employees, and respective information of a business to track all of the employees. Using the application, you have the option to view all departments/roles/employees, add a department/role/employee, and update an exisiting employee.
  
  ## Table of Contents
-[1. Installation](#Installation)
-[2. Usage](#Usage)
-[3. Repository](#Repository)
-[4. Walkthrough](#Walkthrough)
-[5. Contributors](#Contributors)
-[6. Example Images](#Example Images)
-[7. Sources](#Sources)
-[8. License](#License)
+[1. Installation](#Installation)  
+[2. Usage](#Usage)  
+[3. Repository](#Repository)  
+[4. Walkthrough](#Walkthrough)  
+[5. Contributors](#Contributors)  
+[6. Example Images](#Example-Images)  
+[7. Sources](#Sources)  
+[8. License](#License)  
 
 ## Installation
 To install, clone the starter code located in the repository. Make sure to also have mysql, inquirer, & node.js installed. 
@@ -28,13 +28,13 @@ Once you run the command 'node index.js' You will be able to see a prompt in the
 [Github repository link.](https://github.com/annabellefosburgh/amused-bison)
 
 ## Walkthrough
-
+Coming Soon
 
 ## Contributors
 [Annabelle Fosburgh](https://github.com/annabellefosburgh)
 
 ## Example Images
-
+Coming Soon
 
 ## References
 [MYSQL Documentation](https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html)
